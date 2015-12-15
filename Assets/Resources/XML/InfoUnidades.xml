@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<unidades>
+	<unidad>
+		<id>1</id>
+		<nombre>Unidad 1</nombre>
+		<recursos comida="1000" madera="0" oro="0"></recursos>
+		<descripcion>Programador</descripcion>
+		<disponibleEn>0</disponibleEn>
+		<level>1</level>
+	</unidad>
+	
+	<unidad>
+		<id>3</id>
+		<nombre>Unidad 2</nombre>
+		<recursos comida="1000" madera="100" oro="0"></recursos>
+		<descripcion></descripcion>
+		<disponibleEn>20</disponibleEn>
+		<level>1</level>
+	</unidad>
+</unidades>

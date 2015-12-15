@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<edificios>
+	<edificio>
+		<id>0</id>
+		<nombre>Almacén madera</nombre>
+		<recursos comida="0" madera="400" oro="100"></recursos>
+		<description>Almacén de madera</description>
+		<disponibleEn>1</disponibleEn>
+		<level>1</level>
+		<script arg0="Madera">AlmacenRecursos</script>
+	</edificio>
+	
+	<edificio>
+		<id>1</id>
+		<nombre>Almacén oro</nombre>
+		<recursos comida="0" madera="100" oro="300"></recursos>
+		<description>Almacén de oro</description>
+		<disponibleEn>1</disponibleEn>
+		<level>2</level>
+		<script arg0="Oro">AlmacenRecursos</script>
+	</edificio>
+</edificios>
